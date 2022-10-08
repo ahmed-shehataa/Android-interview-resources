@@ -7,10 +7,11 @@ These are some interview questions for android developers that may help you
 
 ### ANDROID & JAVA:
 1. [MindorksOpenSource](https://github.com/MindorksOpenSource/android-interview-questions#android-tools-and-technologies)
-2. [Medium](https://medium.com/tech-insider/android-interview-questions-series-part-i-core-java-3ad243230a79)
-3. [Interviewbit](https://www.interviewbit.com/android-interview-questions/)
-4. [Javatpoint](https://www.javatpoint.com/android-interview-questions)
-5. [Guru99](https://www.guru99.com/android-interview-questions.html)
+2. [MindorksOpenSource-Zak](https://github.com/mzelzoghbi/android-interview-questions?fbclid=IwAR2LKqgrzc_Y53XqkJg156xPW2RSR8FaEyQPftGL6QUc9x5sFqgQGIciwMA)
+3. [Medium](https://medium.com/tech-insider/android-interview-questions-series-part-i-core-java-3ad243230a79)
+4. [Interviewbit](https://www.interviewbit.com/android-interview-questions/)
+5. [Javatpoint](https://www.javatpoint.com/android-interview-questions)
+6. [Guru99](https://www.guru99.com/android-interview-questions.html)
 
 
 ### KOTLIN:
